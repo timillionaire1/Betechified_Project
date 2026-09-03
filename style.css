@@ -184,7 +184,7 @@ li a:hover{
     font-size: 14px;
 }
 
-.pop-up .form .form-element input[type="text"],
+.pop-up .form .form-element input[type="email"],
 .pop-up .form .form-element input[type="password"]{
     margin-top: 5px;
     display: block;
@@ -235,6 +235,12 @@ footer{
     align-items: center;
 }
 
+
+@media screen and (max-width:770px){
+    ul li a{
+        display: none;
+    }
+}
 
 @media screen and (max-width:500px){
     nav{
