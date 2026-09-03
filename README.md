@@ -1,0 +1,1 @@
+A simple landing page built with basic HTML5, CSS3 and Javascript
